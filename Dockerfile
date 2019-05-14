@@ -1,6 +1,5 @@
-# Copyright (c) 2018 nChain Ltd
-# Distributed under the GNU GPL v3.0, see accompanying file LICENSE for details
-# based on work by Adrian Macneil from https://github.com/amacneil/docker-bitcoin
+# Copyright (c) 2019 sunfjun
+
 FROM debian:stretch-slim
 
 ENV BCX_VERSION 0.16.3
