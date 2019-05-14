@@ -2,7 +2,7 @@
 
 A BitcoinX-project docker image.
 
-[![sunfjun/bitcoinx][docker-pulls-image]][docker-hub-url] [![sunfjun/bitcoinx][docker-stars-image]][docker-hub-url] [![sunfjun/bitcoinx][docker-size-image]][docker-hub-url] [![sunfjun/bitcoinx][docker-layers-image]][docker-hub-url]
+[![sunfjun/bitcoinx][https://hub.docker.com/r/sunfjun/bitcoinx]][docker-hub-url] [![sunfjun/bitcoinx][docker-stars-image]][docker-hub-url] [![sunfjun/bitcoinx][docker-size-image]][docker-hub-url] [![sunfjun/bitcoinx][docker-layers-image]][docker-hub-url]
 
 ## Tags
 
