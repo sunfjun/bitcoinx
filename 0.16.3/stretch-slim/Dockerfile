@@ -20,7 +20,7 @@ RUN mkdir "$BCX_DATA" \
 	&& chown -h bitcoinx:bitcoinx /home/bitcoinx/.bitcoinx
 VOLUME /data
 
-COPY entrypoint.sh /entrypoint.sh
+COPY 0.16.3/stretch-slim/entrypoint.sh /entrypoint.sh
 RUN chmod 755 /entrypoint.sh
 USER bitcoinx
 
